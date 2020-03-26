@@ -1,11 +1,11 @@
 # Site settings
-title: itloser.info			#博客标题
-SEOTitle: itloser.info			#浏览器上显示的博客标题
-header-img: img/post-bg-desk.jpg	#头图
-email: tbagonepiece@gmail.com		#邮箱
-description: "W D N M D"		#网站介绍
-keyword: "Android, 移动开发, 后端, github, svn, git, bilibili, csdn"			#关键词
-url: "http://tc7326.github.io"          # your host, for absolute URL			#博客地址
+title: itloser.info			# 博客标题
+SEOTitle: itloser.info			# 浏览器上显示的博客标题
+header-img: img/post-bg-desk.jpg	# 头图
+email: tbagonepiece@gmail.com		# 邮箱
+description: "W D N M D"		# 网站介绍
+keyword: "Android, 移动开发, 后端, github, svn, git, bilibili, csdn"			# 关键词
+url: "http://tc7326.github.io"          # your host, for absolute URL			# 博客地址
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/tc7326/tc7326.github.io.git" # you code repository
 
@@ -17,7 +17,7 @@ sidebar-avatar: /img/about-BY-gentle.jpg				# 侧栏头像图
 
 
 # SNS settings
-RSS: false				#底部社交账号连接相关
+RSS: false				# 底部社交账号连接相关
 # weibo_username:     qiubaiying
 zhihu_username:     qiubaiying
 github_username:    qiubaiying
@@ -61,13 +61,13 @@ kramdown:
 
 # Gitalk
 gitalk:
-  enable: false    #是否开启Gitalk评论
-  clientID: f2c84e7629bb1446c1a4                            #生成的clientID
-  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    #生成的clientSecret
-  repo: qiubaiying.github.io    #仓库名称
-  owner: qiubaiying    #github用户名
+  enable: false    # 是否开启Gitalk评论
+  clientID: f2c84e7629bb1446c1a4                            # 生成的clientID
+  clientSecret: ca6d6139d1e1b8c43f8b2e19492ddcac8b322d0d    # 生成的clientSecret
+  repo: qiubaiying.github.io    # 仓库名称
+  owner: qiubaiying    # github用户名
   admin: qiubaiying
-  distractionFreeMode: true #是否启用类似FB的阴影遮罩
+  distractionFreeMode: true #是 否启用类似FB的阴影遮罩
 
 
 # 统计
