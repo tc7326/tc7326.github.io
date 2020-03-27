@@ -1,9 +1,9 @@
 # Site settings
-title: itloser.info			# 博客标题
+title: 年轻人 W D N M D			# 博客标题
 SEOTitle: itloser.info			# 浏览器上显示的博客标题
 header-img: img/post-bg-desk.png	# 头图
 email: tbagonepiece@gmail.com		# 邮箱
-description: "W D N M D"		# 网站介绍
+description: "itloser.info的github静态博客"		# 网站介绍
 keyword: "Android, 移动开发, 后端, github, svn, git, bilibili, csdn"			# 关键词
 url: "http://tc7326.github.io"          # your host, for absolute URL			# 博客地址
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
