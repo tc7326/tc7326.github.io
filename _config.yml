@@ -1,7 +1,7 @@
 # Site settings
 title: itloser.info			# 博客标题
 SEOTitle: itloser.info			# 浏览器上显示的博客标题
-header-img: img/post-bg-desk.jpg	# 头图
+header-img: img/post-bg-desk.png	# 头图
 email: tbagonepiece@gmail.com		# 邮箱
 description: "W D N M D"		# 网站介绍
 keyword: "Android, 移动开发, 后端, github, svn, git, bilibili, csdn"			# 关键词
@@ -12,7 +12,7 @@ github_repo: "https://github.com/tc7326/tc7326.github.io.git" # you code reposit
 # Sidebar settings
 sidebar: true								# 是否开启侧边栏
 sidebar-about-description: "Goals determine what you going to be!"	# ..........
-sidebar-avatar: /img/about-BY-gentle.jpg				# 侧栏头像图
+sidebar-avatar: /img/about-BY-gentle.png				# 侧栏头像图
 
 
 
