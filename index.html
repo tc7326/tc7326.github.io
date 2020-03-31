@@ -19,7 +19,7 @@ description: "死都不怕，就怕不安逸，命都不要，就爱安逸"
         </div>
     </a>
     <p class="post-meta">
-        Posted by {% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %} on {{ post.date | date: "%B %-d, %Y" }}
+        -{% if post.author %}{{ post.author }}{% else %}{{ site.title }}{% endif %}-{{ post.date | date: "%Y年%-m月%-d日" }}
     </p>
 </div>
 <hr>
