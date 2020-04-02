@@ -10,20 +10,19 @@ baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/tc7326/tc7326.github.io.git" # you code repository
 
 # Sidebar settings
-sidebar: true								# 是否开启侧边栏
-sidebar-about-description: "Goals determine what you going to be!"	# ..........
-sidebar-avatar: /img/about-BY-gentle.png				# 侧栏头像图
+sidebar: true							# 是否开启侧边栏
+sidebar-about-description: "那些杀不死我的，只会让我更强大！"	# ..........
+sidebar-avatar: /img/about-me.png				# 侧栏头像图
 
 
 
 # SNS settings
 RSS: false				# 底部社交账号连接相关
-# weibo_username:     qiubaiying
-zhihu_username:     qiubaiying
-github_username:    qiubaiying
-facebook_username:  baiying.qiu.7
-jianshu_username:   e71990ada2fd
-#twitter_username:   qiubaiying
+weibo_username:		6523641297
+#zhihu_username:	xxxx
+github_username:	tc7326
+jianshu_username:	ca2845497ad4
+csdn_username:		qq_38376757
 
 
 
@@ -57,7 +56,7 @@ kramdown:
 
 # 评论系统
 # Disqus（https://disqus.com/）
-# disqus_username: qiubaiying
+# disqus_username: xxxxx
 
 # Gitalk
 gitalk:
@@ -98,17 +97,9 @@ service-worker: true
 
 # Friends
 friends: [
-    {
-        title: "WY",
-        href: "http://zhengwuyang.com"
-    },{
-        title: "简书·BY",
-        href: "http://www.jianshu.com/u/e71990ada2fd"
-    },{
-        title: "Apple",
-        href: "https://apple.com"
-    },{
-        title: "Apple Developer",
-        href: "https://developer.apple.com/"
-    }
+	{title: "哔哩哔哩",	href: "https://space.bilibili.com/3242061"},
+	{title: "简书",		href: "https://www.jianshu.com/u/ca2845497ad4"},
+	{title: "CSDN",		href: "https://blog.csdn.net/qq_38376757"},
+	{title: "GitHub",	href: "https://github.com/tc7326"},
+	{title: "微博",		href: "https://weibo.com/u/6523641297"}
 ]
